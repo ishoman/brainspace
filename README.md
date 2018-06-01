@@ -21,6 +21,12 @@ _Things to put on the site:_
 * Activities every Thursday
 * Contact Us
 
+Inspirations: WeWork and TechSpace webpages.
+
+I have decided to go with single page flowing website as I believe this best illustrates the open and inviting nature of the client's space. Everything is there for you to see and experience without having to dig for it.
+
+The rest of this project will be guided by the idea of openness and the desire for everything to be attractive, sleek, and efficient as per the client's wishes.
+
 
 ## Sketches
 
