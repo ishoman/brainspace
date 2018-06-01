@@ -10,10 +10,17 @@ _Enter Text Here_
 
 ## Brainstorm Process
 
-_I've decided to make a mobile app first. Most people who are independent contractors/artists are constantly on the go. A solid mobile layout will be key to drawing in customers for the client._
-_In looking at WeWork and TechSpace, they both have layouts that feature a lot of carousels/slideshows which promote flowing spaces and thought. I like the general idea of that, but I think having a whole page of slideshows is a little overpowering._
+* I've decided to design the mobile platform first. Most people who are independent contractors/artists are constantly on the go. A solid mobile layout will be key to drawing in customers for the client.
+* In looking at WeWork and TechSpace, they both have layouts that feature a lot of carousels/slideshows which promote flowing spaces and thought. I like the general idea of that, but I think having a whole page of slideshows is a little overpowering and doesn't guarantee the consumer will see everything you want them to see.
+* I will base the color scheme on the colors depicted in the photos. Primarily the mint green in the first photo.
+* A few of the photos have "love" as a theme. That is clearly important to the client. The site should express empathy and love for all people.
 
 _Things to put on the site:_
+
+* List Amenities
+* Activities every Thursday
+* 
+
 
 ## Sketches
 
