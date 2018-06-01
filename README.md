@@ -31,6 +31,9 @@ The rest of this project will be guided by the idea of openness and the desire f
 
 ![alt text](sketches/landing.jpg)
 ![alt text](sketches/secondary.jpg)
+![alt text](sketches/ipad.jpg)
+![alt text](sketches/desktop.jpg)
+
 
 ## Setup/Installation Requirements
 
