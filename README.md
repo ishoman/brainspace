@@ -15,12 +15,6 @@ _Enter Text Here_
 * I will base the color scheme on the colors depicted in the photos. Primarily the mint green in the first photo.
 * A few of the photos have "love" as a theme. That is clearly important to the client. The site should express empathy and love for all people.
 
-_Things to put on the site:_
-
-* List Amenities
-* Activities every Thursday
-* Contact Us
-
 Inspirations: WeWork and TechSpace webpages.
 
 I have decided to go with single page flowing website as I believe this best illustrates the open and inviting nature of the client's space. Everything is there for you to see and experience without having to dig for it.
