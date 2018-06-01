@@ -19,16 +19,13 @@ _Things to put on the site:_
 
 * List Amenities
 * Activities every Thursday
-* 
+* Contact Us
 
 
 ## Sketches
 
-![alt text](imgs/adidas-page.png)
-
-## My
-
-![alt text](imgs/my-page.png)
+![alt text](sketches/landing.jpg)
+![alt text](sketches/secondary.jpg)
 
 ## Setup/Installation Requirements
 
