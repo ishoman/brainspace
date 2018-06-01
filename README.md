@@ -27,7 +27,6 @@ I have decided to go with single page flowing website as I believe this best ill
 
 The rest of this project will be guided by the idea of openness and the desire for everything to be attractive, sleek, and efficient as per the client's wishes.
 
-
 ## Sketches
 
 ![alt text](sketches/landing.jpg)
