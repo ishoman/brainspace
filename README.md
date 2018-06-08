@@ -6,7 +6,7 @@
 
 ## Description
 
-_Enter Text Here_
+This project is a two week project intended to test our abilities with Sketch and Sass. The first week we were required to sketch, wireframe, and prototype our landing pages. Week two consisted of using responsive design techniques to build out our site with Sass.
 
 ## Brainstorm Process
 

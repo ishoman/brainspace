@@ -14,7 +14,7 @@
     a {
       color: black;
       font-weight: bold;
-      font-size: 20px;
+      font-size: 1.2em;
       @include tablet {
         display: none;
         z-index: -1;
