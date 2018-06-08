@@ -1,3 +1,13 @@
-h1 {
-  color: blue;
+.nav {
+  display: flex;
+  background-color: white;
+  width: 100%;
+  ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    list-style: none;
+  }
+
+
 }
