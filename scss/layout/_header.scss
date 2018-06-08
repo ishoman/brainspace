@@ -16,6 +16,7 @@
   justify-content: center;
   align-items: center;
   background-color: white;
+  margin-bottom: 30px;
 }
 
 .header-text {
@@ -23,9 +24,6 @@
   padding: 10px 15px;
   width: 50%;
   ul {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    @include text-box;
   }
 }
