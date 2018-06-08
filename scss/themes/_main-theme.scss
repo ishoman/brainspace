@@ -4,16 +4,15 @@
 }
 
 body {
-  font: {
-    family: $font-stack;
-    weight: bold;
-    size: 20px;
-
-  }
+  font-family: $font-stack;
 }
 
 .container {
   display: flex;
   flex-direction: column;
   background-color: $blue-background;
+}
+
+li {
+  list-style: none;
 }
