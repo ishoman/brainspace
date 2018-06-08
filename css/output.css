@@ -71,6 +71,14 @@
   justify-content: center;
 }
 
+.amenities-imgs {
+  display: flex;
+}
+
+.amenities-img {
+  width: 100%;
+}
+
 * {
   padding: 0;
   margin: 0;

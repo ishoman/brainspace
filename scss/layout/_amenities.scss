@@ -15,3 +15,16 @@
     @include text-box;
   }
 }
+
+.amenities-imgs {
+  display: flex;
+}
+
+.amenities-item {
+  display: flex;
+  height: 300px;
+  overflow: hidden;
+  img {
+    width: 100%;
+  }
+}
