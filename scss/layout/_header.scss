@@ -1,5 +1,6 @@
 .image-container {
   height: 350px;
+  max-width: 2000px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -17,6 +18,9 @@
   align-items: center;
   background-color: white;
   margin-bottom: 30px;
+  @include tablet {
+    color: purple;
+  }
 }
 
 .header-text {

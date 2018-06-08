@@ -1,7 +1,6 @@
 .nav {
   display: flex;
-  padding: 10px 15px;
-  margin-right: 15px;
+  padding: 10px;
   background-color: white;
   width: 100%;
   ul {
@@ -15,8 +14,9 @@
       color: black;
       font-weight: bold;
       font-size: 20px;
+      @include tablet {
+        z-index: -1;
+      }
     }
   }
 }
-
-@include tablet {}

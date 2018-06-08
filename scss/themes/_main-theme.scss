@@ -8,12 +8,16 @@ html {
 
 body {
   font-family: $font-stack;
+  max-width: 2000px;
+  background-color: $blue-background;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  background-color: $blue-background;
+  align-items: center;
+  justify-content: center;
+
 }
 
 li {
