@@ -75,6 +75,13 @@
   display: flex;
 }
 
+.amenities-item {
+  display: flex;
+  flex-direction: column;
+  height: 230px;
+  overflow: hidden;
+}
+
 .amenities-img {
   width: 100%;
 }

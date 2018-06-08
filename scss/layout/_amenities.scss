@@ -22,9 +22,11 @@
 
 .amenities-item {
   display: flex;
-  height: 300px;
+  flex-direction: column;
+  height: 230px;
   overflow: hidden;
-  img {
-    width: 100%;
-  }
+}
+
+.amenities-img {
+  width: 100%;
 }
