@@ -18,9 +18,6 @@
   align-items: center;
   background-color: white;
   margin-bottom: 30px;
-  @include tablet {
-    color: purple;
-  }
 }
 
 .header-text {

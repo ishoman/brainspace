@@ -21,18 +21,15 @@ I have decided to go with single page flowing website as I believe this best ill
 
 The rest of this project will be guided by the idea of openness and the desire for everything to be attractive, sleek, and efficient as per the client's wishes.
 
-## Sketches
-
-![alt text](sketches/landing.jpg)
-![alt text](sketches/secondary.jpg)
-![alt text](sketches/ipad.jpg)
-![alt text](sketches/desktop.jpg)
-
 
 ## Setup/Installation Requirements
 
 * _Clone Repository to Desktop_
-* _Open in Sketch_
+* _Make sure you have Sass installed_
+* _Navigate into the directory via the CLI_
+* _Run the following in the command line:_ **sass scss/input.scss css/output.css**
+* _Open in Browser_
+
 
 ## Known Bugs
 
@@ -45,6 +42,7 @@ _Please email me at isaac.shoman@gmail.com with any feedback!_
 ## Technologies Used
 
 * _Sketch_
+* _Sass_
 
 ### License
 

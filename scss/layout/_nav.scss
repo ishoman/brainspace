@@ -10,13 +10,21 @@
     width: 100%;
   }
   li {
+    display: flex;
     a {
       color: black;
       font-weight: bold;
       font-size: 20px;
       @include tablet {
+        display: none;
         z-index: -1;
       }
+    }
+  }
+  #logo {
+    @include tablet {
+      display: flex;
+      justify-content: center
     }
   }
 }

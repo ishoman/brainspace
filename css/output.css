@@ -10,6 +10,9 @@
   align-items: center;
   width: 100%;
 }
+.nav li {
+  display: flex;
+}
 .nav li a {
   color: black;
   font-weight: bold;
@@ -17,7 +20,14 @@
 }
 @media screen and (max-width: 979px) {
   .nav li a {
+    display: none;
     z-index: -1;
+  }
+}
+@media screen and (max-width: 979px) {
+  .nav #logo {
+    display: flex;
+    justify-content: center;
   }
 }
 
@@ -41,11 +51,6 @@
   align-items: center;
   background-color: white;
   margin-bottom: 30px;
-}
-@media screen and (max-width: 979px) {
-  .header {
-    color: purple;
-  }
 }
 
 .header-text {
