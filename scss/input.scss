@@ -1,3 +1,5 @@
-h1 {
-  color: red;
-}
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'layout/header.scss';
+@import 'layout/nav.scss';
